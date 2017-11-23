@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+comm -13 /usr/share/dict/words -
