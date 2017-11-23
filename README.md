@@ -53,6 +53,9 @@ timesharing
 unix
 ```
 
+For more awesome old videos of computer history, check out [Awesome
+Conputer History](https://github.com/watson/awesome-computer-history).
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
