@@ -54,7 +54,7 @@ unix
 ```
 
 For more awesome old videos of computer history, check out [Awesome
-Conputer History](https://github.com/watson/awesome-computer-history).
+Computer History](https://github.com/watson/awesome-computer-history).
 
 ## License
 
