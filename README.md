@@ -35,7 +35,7 @@ have been renamed to `uniq` on most systems.
 This means we need to re-create `makewords`, `lowercase` and `mismatch`.
 This repository contains those 3 programs.
 
-To run them locally, simply clone this reporsitory and run the following
+To run them locally, simply clone this repository and run the following
 pipeline:
 
 ```
